@@ -20,5 +20,7 @@ Cleaned LAPD crime data in Python and visualized it in Tableau Desktop to gather
     - Donut Chart
   - Combined charts to create an interactive dashboard filtered by user selection<br>
   <br>
-- Data was provided by the Los Angeles Police Department [here](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
-- Raw csv and cleaned excel file were too large to add to a github repository
+  
+### Info
+  - Data was provided by the Los Angeles Police Department [here](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+  - Raw csv and cleaned excel file were too large to add to a github repository
